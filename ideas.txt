@@ -1,0 +1,9 @@
+check whether this is balanced dataset or imbalanced dataset i.e. all classes are equally distributed?
+check with a histogram
+do EDA (exploratory data analysis)
+
+dimensionality reduction
+0 - 255 range colors, make it 0 and 1, what is the minimum value to convert to 0
+
+univariate, bivariate, multivariate analysis
+
